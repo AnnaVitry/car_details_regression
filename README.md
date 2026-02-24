@@ -1,3 +1,5 @@
+> En rapport, avec Projet_Acier
+
 2 heures en autonomie, vous pouvez travailler la dessus (toujours scikit learn).
 La "correction" de l'exercice d'aujourd'hui, et un autre exercice pour vous entrainer: 
 
